@@ -391,3 +391,13 @@ li
     color: rgb(151, 10, 10);
 
 }
+.c
+{
+    width: 400px;
+    margin: auto;
+    padding-top: 20px;
+    color:brown;
+    font-size: large;
+    font-weight: bold;
+    background-color: beige;
+}
